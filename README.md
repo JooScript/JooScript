@@ -1,6 +1,6 @@
 # Hello 👋 What's up?
 
-My name is Yousef Refat and I'm a software developer, working as a backend .NET developer.
+My name is Yousef and I'm a software developer, working as a backend .NET developer.
 
 # 💫 About Me:
 
