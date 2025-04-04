@@ -1,14 +1,10 @@
-<br>
-<h3 align="center">Make it simple, but significant.</h3>
-<br>
-
 # Hello 👋 What's up?
 
 My name is Yousef Refat and I'm a software developer, working as a backend .NET developer.
 
 # 💫 About Me:
 
-🔭 I’m currently working on E Commerce Project<br>🌱 I’m currently learning React <br>💬 Ask me about .Net Development<br>⚡ Fun fact: "It's more than just binaries."
+🔭 I’m currently working on E Commerce Project<br>🌱 I’m currently learning React <br>💬 Ask me about .NET Development<br>⚡ Fun fact: "It's more than just binaries."
 
 ## 🌐 Socials:
 
