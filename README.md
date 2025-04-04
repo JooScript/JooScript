@@ -1,3 +1,7 @@
+<br>
+<h3 align="center">Make it simple, but significant.</h3>
+<br>
+
 # Hello 👋 What's up?
 
 My name is Yousef Refat and I'm a software developer, working as a backend .NET developer.
@@ -9,10 +13,6 @@ My name is Yousef Refat and I'm a software developer, working as a backend .NET 
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JooScript) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jooscript) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousef-refat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jooscript) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Yousef-Refat) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Yousef_Refat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Joo_Script) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Yousef_Refat)
-
-
-> Make it simple, but significant..
-
 
 # 💻 Tech Stack:
 
