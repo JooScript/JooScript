@@ -4,7 +4,7 @@ My name is Yousef and I'm a software developer, working as a backend .NET develo
 
 # 💫 About Me:
 
-🔭 I’m currently working on E Commerce Project<br>🌱 I’m currently learning React <br>💬 Ask me about .NET Development<br>⚡ Fun fact: "It's more than just binaries."
+💬 Ask me about .NET Development<br>⚡ Fun fact: "It's more than just binaries."
 
 ## 🌐 Socials:
 
