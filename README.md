@@ -1,14 +1,52 @@
 # Hello 👋 What's up?
 
-My name is Yousef and I'm a software developer, working as a backend .NET developer.
+My name is Yousef and I'm a Full Stack Developer who enjoys building complete software products from backend systems and APIs to modern web applications.
 
-# 💫 About Me:
+I enjoy designing software architecture, working with databases, building user interfaces, and turning ideas into reliable and scalable products.
 
-💬 Ask me about .NET Development<br>⚡ Fun fact: "It's more than just binaries."
+## 💫 About Me
 
-# 🌐 Socials:
+💬 Ask me about .NET Development, Full Stack Development, Software Architecture & Databases
+🧠 Interested in Software Architecture, Clean Code & System Design
+🚀 Building SaaS products and developer-focused tools
+📊 Exploring Observability, Logging & Monitoring
+🌐 Building modern web applications and backend systems
+⚡ Fun fact: "It's more than just binaries."
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JooScript) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jooscript) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefrefat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jooscript)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Yousef_Refat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Joo_Script) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JooScript)
+## 🚀 What I'm Building
+
+### 📊 Observability Platform
+
+Working on a reusable observability platform for applications, bringing together logging, error tracking, and application monitoring into a unified experience.
+
+### 🧾 E-Invoicing System
+
+Building a complete electronic invoicing system with ZATCA integration, invoice lifecycle management, XML generation, cryptographic signing, and clearance workflows.
+
+### 🎯 Productivity & Management Systems
+
+Building software around goals, areas, projects, tasks, productivity workflows, and habit tracking.
+
+## 🧠 Areas of Interest
+
++ Full Stack Development
++ Software Architecture
++ System Design
++ Clean Architecture
++ SOLID Principles
++ Design Patterns
++ Database Design
++ API Design
++ Authentication & Authorization
++ Observability
++ Distributed Systems
++ SaaS Architecture
++ Developer Tools
++ Product Development
+
+## 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JooScript) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jooscript) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JooAwad) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jooscript)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Yousef_Refat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Joo_Script) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JooScript)
 
 # 💻 Tech Stack:
 
