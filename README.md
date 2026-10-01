@@ -6,12 +6,12 @@ I enjoy designing software architecture, working with databases, building user i
 
 ## 💫 About Me
 
-💬 Ask me about .NET Development, Full Stack Development, Software Architecture & Databases
-🧠 Interested in Software Architecture, Clean Code & System Design
-🚀 Building SaaS products and developer-focused tools
-📊 Exploring Observability, Logging & Monitoring
-🌐 Building modern web applications and backend systems
-⚡ Fun fact: "It's more than just binaries."
+💬 Ask me about .NET Development, Full Stack Development, Software Architecture & Databases </br>
+🧠 Interested in Software Architecture, Clean Code & System Design </br>
+🚀 Building SaaS products and developer-focused tools </br>
+📊 Exploring Observability, Logging & Monitoring </br>
+🌐 Building modern web applications and backend systems </br>
+⚡ Fun fact: "It's more than just binaries." </br>
 
 ## 🚀 What I'm Building
 
