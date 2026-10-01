@@ -54,4 +54,4 @@ Building software around goals, areas, projects, tasks, productivity workflows, 
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
